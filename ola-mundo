@@ -6,7 +6,7 @@
   <title>olá mundo</title>
   
   <link rel="stylesheet" href="style.css">
-  <script type="module" src="code.js">
+  <script type="module" src="code.js"></script>
 </head>
 <body>
 
